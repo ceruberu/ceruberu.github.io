@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Weekly JS</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ceruberu.github.io/"/>
+  <updated>2018-03-05T08:11:00.395Z</updated>
+  <id>http://ceruberu.github.io/</id>
+  
+  <author>
+    <name>ceruberu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://ceruberu.github.io/2018/03/05/My-New-Post/"/>
+    <id>http://ceruberu.github.io/2018/03/05/My-New-Post/</id>
+    <published>2018-03-05T08:11:00.000Z</published>
+    <updated>2018-03-05T08:11:00.395Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My First Post</title>
+    <link href="http://ceruberu.github.io/2018/03/05/My-First-Post/"/>
+    <id>http://ceruberu.github.io/2018/03/05/My-First-Post/</id>
+    <published>2018-03-05T08:10:42.000Z</published>
+    <updated>2018-03-05T08:10:42.302Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
