@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Weekly Javascript</title>
   
-  
+  <subtitle>주간 자바스크립트</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ceruberu.github.io/"/>
-  <updated>2018-03-08T14:31:25.031Z</updated>
+  <updated>2018-03-09T08:30:54.972Z</updated>
   <id>http://ceruberu.github.io/</id>
   
   <author>
@@ -17,242 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>haaa</title>
-    <link href="http://ceruberu.github.io/2018/03/08/haaa-1/"/>
-    <id>http://ceruberu.github.io/2018/03/08/haaa-1/</id>
-    <published>2018-03-08T14:31:25.000Z</published>
-    <updated>2018-03-08T14:31:25.031Z</updated>
+    <title>Hexo 블로그 시작하기</title>
+    <link href="http://ceruberu.github.io/2018/03/09/Hexo%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
+    <id>http://ceruberu.github.io/2018/03/09/Hexo를-이용하여-블로그-만들기/</id>
+    <published>2018-03-08T16:22:16.000Z</published>
+    <updated>2018-03-09T08:30:54.972Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a> ]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>haaa</title>
-    <link href="http://ceruberu.github.io/2018/03/08/haaa/"/>
-    <id>http://ceruberu.github.io/2018/03/08/haaa/</id>
-    <published>2018-03-08T14:31:08.000Z</published>
-    <updated>2018-03-08T14:31:08.865Z</updated>
-    
-    <summary type="html">
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt; 
+
+      
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-12/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-12/</id>
-    <published>2018-03-08T11:32:56.000Z</published>
-    <updated>2018-03-08T14:43:07.076Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
+      <category term="Web" scheme="http://ceruberu.github.io/categories/Web/"/>
     
     
-      <category term="Javascript" scheme="http://ceruberu.github.io/tags/Javascript/"/>
+      <category term="Blog" scheme="http://ceruberu.github.io/tags/Blog/"/>
     
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-11/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-11/</id>
-    <published>2018-03-08T11:32:55.000Z</published>
-    <updated>2018-03-08T11:32:55.522Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-10/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-10/</id>
-    <published>2018-03-08T11:32:54.000Z</published>
-    <updated>2018-03-08T11:32:54.672Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-9/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-9/</id>
-    <published>2018-03-08T11:32:53.000Z</published>
-    <updated>2018-03-08T11:32:53.888Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-8/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-8/</id>
-    <published>2018-03-08T11:32:53.000Z</published>
-    <updated>2018-03-08T11:32:53.111Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-7/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-7/</id>
-    <published>2018-03-08T11:32:52.000Z</published>
-    <updated>2018-03-08T11:32:52.327Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-6/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-6/</id>
-    <published>2018-03-08T11:32:51.000Z</published>
-    <updated>2018-03-08T11:32:51.545Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-5/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-5/</id>
-    <published>2018-03-08T11:32:50.000Z</published>
-    <updated>2018-03-08T11:32:50.319Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-4/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-4/</id>
-    <published>2018-03-08T11:32:49.000Z</published>
-    <updated>2018-03-08T11:32:49.538Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-3/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-3/</id>
-    <published>2018-03-08T11:32:48.000Z</published>
-    <updated>2018-03-08T11:32:48.699Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-2/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-2/</id>
-    <published>2018-03-08T11:32:47.000Z</published>
-    <updated>2018-03-08T11:32:47.886Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey-1/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey-1/</id>
-    <published>2018-03-08T11:32:46.000Z</published>
-    <updated>2018-03-08T11:32:46.459Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hey</title>
-    <link href="http://ceruberu.github.io/2018/03/08/hey/"/>
-    <id>http://ceruberu.github.io/2018/03/08/hey/</id>
-    <published>2018-03-08T11:32:41.000Z</published>
-    <updated>2018-03-08T11:32:41.598Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My New Post</title>
-    <link href="http://ceruberu.github.io/2018/03/05/My-New-Post/"/>
-    <id>http://ceruberu.github.io/2018/03/05/My-New-Post/</id>
-    <published>2018-03-05T08:11:00.000Z</published>
-    <updated>2018-03-05T08:11:00.395Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>My First Post</title>
-    <link href="http://ceruberu.github.io/2018/03/05/My-First-Post/"/>
-    <id>http://ceruberu.github.io/2018/03/05/My-First-Post/</id>
-    <published>2018-03-05T08:10:42.000Z</published>
-    <updated>2018-03-05T08:10:42.302Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="Hexo" scheme="http://ceruberu.github.io/tags/Hexo/"/>
     
   </entry>
   
